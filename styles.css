@@ -1,0 +1,64 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  #play1 {
+    height: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color: rgb(255, 255, 96);
+    border-radius: 10px;
+  }
+  
+  #play2 {
+    height: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color: rgb(122, 255, 96);
+    border-radius: 10px;
+  }
+  
+  #controls {
+    height: auto;
+    margin-bottom: 50px;
+    padding: 5px;
+    background-color: rgb(106, 183, 255);
+    border-radius: 10px;
+  }
+  
+  #play {
+    width: 120px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    background-color: coral;
+  }
+  
+  #reset {
+    width: 120px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    background-color: coral;
+  }
+  
+  #player1 {
+    width: 120px;
+    height: 30px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    background-color: cyan;
+  }
+  
+  #player2 {
+    width: 120px;
+    height: 30px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    background-color: cyan;
+  }
+  
